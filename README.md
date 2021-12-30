@@ -1,0 +1,1 @@
+MontyPay is a global payment gateway headquartered in the UK, with an international presence in multiple countries including Switzerland, Cyprus, Lebanon, Nigeria, UAE, and Pakistan. It is a smart and powerful payment gateway solution that aims to help merchants grow and develop their payment methods and their revenues.
